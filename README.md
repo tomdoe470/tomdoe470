@@ -72,7 +72,7 @@
 
 Estare documentando mis investigaciones/proyectos mas relevantes en el siguiente repositorio, si te interesa mi trabajo hechale un ojo:
 
-👉 [Ir al repositorio General]((https://github.com/tomdoe470/General))
+👉 [Ir al repositorio General](https://github.com/tomdoe470/General)
 
 
 Ultima edición: 27/07/2025
