@@ -68,4 +68,11 @@
 </p>
 
 
+## Mis trabajos
+
+Estare documentando mis investigaciones/proyectos mas relevantes en el siguiente repositorio, si te interesa mi trabajo hechale un ojo:
+
+👉 [Ir al repositorio Generalidades]([https://github.com/tu-usuario/generalidades](https://github.com/tomdoe470/General))
+
+
 Ultima edición: 27/07/2025
